@@ -1,2 +1,1 @@
-# gtas
-GTA-S : Graph Transformer for binding Affinity using atomic diStance
+# GTA-S : Graph Transformer for binding affinity using atomic diStance
